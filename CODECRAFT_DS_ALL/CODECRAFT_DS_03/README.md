@@ -19,7 +19,8 @@ Build a Decision Tree Classifier to predict whether a customer will subscribe to
 ### 📈 Outputs
 - **Accuracy:** `91.49%`
 - **Decision Tree Plot:**
-  ![Decision Tree Classifier Output](task03_decision_tree_plot.png)
+  ![Decision Tree Classifier Output](bank/task03_decision_tree_plot.png)
+Task 03 Completed ✅)
 
 - **Classification Report:**
            precision    recall  f1-score   support
