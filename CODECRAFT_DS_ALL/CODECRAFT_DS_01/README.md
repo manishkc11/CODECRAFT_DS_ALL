@@ -21,7 +21,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 - Bar Chart: Top 10 most populated countries in 2022.
 ![Top 10 Most Populated Countries (2022)](task01_population_bar_output.png)
 - Histogram: Population distribution among countries in 2022.
-![Global Population Distribution Histogram (2022)](task01_population_20histo_output.png)
+![Global Population Distribution Histogram (2022)](task01_population_histo_output.png)
 
 
 
