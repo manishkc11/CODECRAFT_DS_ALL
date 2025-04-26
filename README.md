@@ -23,9 +23,8 @@ Each task demonstrates critical data handling, analysis, visualization, and pred
 ## 📁 Repository Structure
 
 ```plaintext
-task01_population/
-task02_titanic_eda/
-task03_decision_tree/
-task04_twitter_sentiment/
-task05_road_accidents/
-README.md
+Task 01	CODECRAFT_DS_01
+Task 02	CODECRAFT_DS_02
+Task 03	CODECRAFT_DS_03
+Task 04	CODECRAFT_DS_04
+Task 05	CODECRAFT_DS_05
